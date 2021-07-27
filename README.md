@@ -1,3 +1,10 @@
+1、IDMap 通过ID数字查找 函数方法名。
+
+2、没办法同时支持多个补丁文件。
+
+3、通过IDTag标记同名函数。
+
+========================================================================================
 ![Logo](./Pic/logo.png)
 
 [![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Tencent/InjectFix/blob/master/LICENSE)
